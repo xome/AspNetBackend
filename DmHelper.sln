@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmHelper", "DmHelper.csproj", "{CDC9D331-3E43-4517-9FDB-96313184DFB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC9D331-3E43-4517-9FDB-96313184DFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC9D331-3E43-4517-9FDB-96313184DFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC9D331-3E43-4517-9FDB-96313184DFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC9D331-3E43-4517-9FDB-96313184DFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC789C3-F36C-482A-9A3F-63B51F6001C9}
+	EndGlobalSection
+EndGlobal

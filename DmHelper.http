@@ -1,0 +1,6 @@
+@DmHelper_HostAddress = http://localhost:5110
+
+GET {{DmHelper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
